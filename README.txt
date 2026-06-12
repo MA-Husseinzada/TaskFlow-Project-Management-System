@@ -3,7 +3,7 @@
 ## Project Overview
 
 TaskFlow is a web-based Project Management System developed using PHP, MySQL, HTML and CSS.
-
+The system supports user authentication, project management, task management and progress tracking through a database-driven web application.
 The purpose of this project was to create a simple and effective system that allows users to manage projects and tasks while tracking progress and deadlines. The project was developed as part of the Professional Development module and provided practical experience in web development, database design and software development principles.
 
 ---
@@ -65,6 +65,7 @@ The following technologies were used during development:
 - CSS
 - XAMPP
 - phpMyAdmin
+- GitHub
 
 ---
 
@@ -135,7 +136,7 @@ htdocs
 6. Open a browser and visit:
 
 ```text
-http://localhost/taskflow
+http://localhost/task_manager/login.php
 ```
 
 7. Register a new account and log in.
@@ -147,5 +148,3 @@ http://localhost/taskflow
 Mohammad Ali Husseinzada
 
 Developed as part of the Professional Development module.
-
-TaskFlow Project Management System  
